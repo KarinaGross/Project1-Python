@@ -4,7 +4,7 @@ import os
 import view
 
 
-notebook = 'notebook3.json' # файл notebook должен существовать до запуска программы
+notebook = 'C:/Users/karin/OneDrive/Рабочий стол/GB/Промежуточная аттестация/Notebook/notebook.json' # файл notebook должен существовать до запуска программы
 
 
 def add_note(name, body, time):
